@@ -1,7 +1,8 @@
-# funda_coding_assignment
+# Mingkang's funda_coding_assignment
 The assignment is to conduct analysis on the dataset from a movie streaming service.
 
 The analysis assignment was conducted on the Google Cloud Platform
+The python code for ETL and data visualization is available in my Github
 
 ETL and Preprocessing steps including:
 
